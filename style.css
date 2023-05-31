@@ -174,11 +174,11 @@ a{
 }
 
 .more-info-section{
-    background-image: linear-gradient(rgba(22,22,22,0.9), rgba(22,22,22,0.9)), url("https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-attachment: fixed;
+    background-image: linear-gradient(rgba(22,22,22,0.6), rgba(22,22,22,0.9)), url("https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     padding: 6rem 0;
     overflow: hidden;
 }
