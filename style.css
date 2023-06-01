@@ -410,3 +410,14 @@ button, a{
     height: .7rem;
     background-color: #1089ff;
 }
+
+@media screen and (min-width: 992px) {
+.carousel-control-prev-icon {
+position: relative;
+right: 55%;
+} 
+.carousel-control-next-icon {
+position: relative;
+left: 55%;
+} 
+}
